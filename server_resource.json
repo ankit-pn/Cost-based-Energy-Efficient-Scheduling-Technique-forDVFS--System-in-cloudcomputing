@@ -1,0 +1,23 @@
+{
+    "1":{
+        "status":"on",
+        "serverId":"0xxxx",
+        "unit_power_cost":"10",
+        "total_resource":"100",
+        "current_available_resource":"50"
+    },
+    "2":{
+        "status":"on",
+        "serverId":"0xxxx",
+        "unit_power_cost":"10",
+        "total_resource":"100",
+        "current_available_resource":"50"
+    },
+    "3":{
+        "status":"on",
+        "serverId":"0xxxx",
+        "unit_power_cost":"10",
+        "total_resource":"100",
+        "current_available_resource":"50"
+    }
+}
